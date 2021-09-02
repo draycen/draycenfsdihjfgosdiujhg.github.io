@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+    color:rgba(0,0,0,0.87);
+    display:inline-block;line-height:24px;vertical-align:middle
+}
+a:hover,focus{
+    color:rgba(0,0,0,0.87);
+    text-decoration:underline;
+    outline-offset:2px;
+}
+
+body{
+    margin: ;
+}
